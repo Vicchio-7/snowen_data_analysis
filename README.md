@@ -1,2 +1,3 @@
 # snowen_data_analysis
-codes for snowen to help her complete her data analysis
+
+This Git repository is designed to help snowen organize her data analysis for her research. 
